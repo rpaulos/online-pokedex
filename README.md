@@ -1,2 +1,2 @@
 # online-pokedex
-gotta catch 'em all! Includes generation 1 through 9
+Gotta catch ’em all! This project is a web-based Pokédex application designed in a pixel-art style to evoke a retro aesthetic. It compiles all 905 Pokémon entries from Generations I through VIII, providing detailed information on each species. The system includes an interactive map for every region, allowing users to visualize and locate Pokémon spawn areas. Additionally, it features a team recommendation module that utilizes machine learning algorithms to suggest optimal team compositions based on type matchups, synergy, and user preferences.
